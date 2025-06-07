@@ -1,18 +1,26 @@
-💬 Chit Chat - Real-Time Chat Application
+# 💬 Chit Chat - Real-Time Chat Application
 
-Chit Chat is a real-time chat application built with Node.js, Express, and Socket.io. It provides users with a seamless messaging experience in a clean, minimalist UI. Messages appear in real-time with timestamps and usernames.
+Chit Chat is a real-time chat application built with Node.js, Express, and Socket.io. It provides users with a seamless messaging experience with a clean, minimalist interface.
 
-Features:
-Real-time communication using Socket.io
-,Prompt for username on join
-,Timestamped messages
-,Message display with auto-scroll
-,Lightweight and simple design
-,Responsive layout (HTML/CSS/JS only frontend)
+## ✨ Features
+- **Real-time messaging** using Socket.io
+- **Username prompt** on joining
+- **Timestamped messages** for all conversations
+- **Auto-scrolling** message display
+- **Clean, minimalist UI** with responsive design
+- **Lightweight** frontend (HTML/CSS/JavaScript only)
 
-Tech Stack:
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-Realtime Engine: Socket.io
+## 🛠️ Tech Stack
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Realtime Communication
+- Socket.io
 
 
